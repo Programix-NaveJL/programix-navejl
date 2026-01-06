@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Programix NaveJL</title>
+  <link rel="icon" href="favicon.png" sizes="32x32">
+  <link rel="icon" href="favicon.png" sizes="16x16">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Fuente -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Favicon (opcional) -->
+  <!-- <link rel="icon" href="img/favicon.png"> -->
+</head>
+<body>
+
+  <!-- HEADER / NAV -->
+  <header class="navbar">
+    <div class="logo">
+      <img src="logo_programix_navejl.png" alt="Programix NaveJL">
+    </div>
+    <nav>
+      <a href="#inicio">Inicio</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#servicios">Servicios</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero" id="inicio">
+    <img src="logo_programix_navejl.png" alt="Programix NaveJL" class="hero-logo">
+
+    <h2>Soluciones digitales que impulsan tu negocio</h2>
+    <p>Desarrollo de software moderno, eficiente y a la medida</p>
+
+    <a href="#contacto" class="btn">Contáctanos</a>
+  </section>
+
+  <!-- NOSOTROS -->
+  <section class="section" id="nosotros">
+    <h2>Nuestra Presentación</h2>
+    <p class="text">
+      En <strong>Programix NaveJL</strong> somos una empresa de programación
+      enfocada en crear soluciones tecnológicas innovadoras, seguras y escalables.
+      Transformamos ideas en software funcional que impulsa negocios.
+    </p>
+  </section>
+
+  <!-- SERVICIOS -->
+  <section class="section services" id="servicios">
+    <h2>Servicios</h2>
+
+    <div class="cards">
+      <div class="card">
+        <h3>💻 Desarrollo Web</h3>
+        <p>Páginas web modernas, rápidas y responsivas.</p>
+      </div>
+
+      <div class="card">
+        <h3>📱 Apps Móviles</h3>
+        <p>Aplicaciones Android y multiplataforma.</p>
+      </div>
+
+      <div class="card">
+        <h3>⚙️ Software a Medida</h3>
+        <p>Sistemas personalizados para tu empresa.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACTO -->
+  <section class="section contact" id="contacto">
+    <h2>Contacto</h2>
+    <p>¿Tienes un proyecto en mente? Escríbenos</p>
+
+    <form 
+      class="form"
+      action="https://formsubmit.co/alfredo.naveju.lop@gmail.com"
+      method="POST"
+    >
+      <input type="text" name="nombre" placeholder="Nombre" required>
+      <input type="email" name="email" placeholder="Correo electrónico o número telefonico" required>
+      <textarea name="mensaje" placeholder="Mensaje" required></textarea>
+
+      <!-- Configuración FormSubmit -->
+      <input type="hidden" name="_subject" value="Nuevo mensaje - Programix NaveJL">
+      <input type="hidden" name="_captcha" value="false">
+
+      <button type="submit">Enviar mensaje</button>
+    </form>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Programix NaveJL | Todos los derechos reservados</p>
+  </footer>
+
+</body>
+</html>
