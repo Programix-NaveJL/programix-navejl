@@ -3,7 +3,7 @@
 </p>
 
 # ¡Hola! Soy José Alfredo Navejú 👋
-Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahermosa[cite: 1]. Me apasiona el desarrollo de soluciones lógicas, aplicaciones móviles multiplataforma y la estructuración eficiente de bases de datos[cite: 1].
+Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahermosa. Me apasiona el desarrollo de soluciones lógicas, aplicaciones móviles multiplataforma y la estructuración eficiente de bases de datos.
 
 ---
 
@@ -29,5 +29,5 @@ Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahe
 ---
 
 ### 🚀 Proyectos en Desarrollo
-- **Comunidad ITVH:** Ecosistema digital modular e independiente para la comunidad estudiantil[cite: 1].
-- **Liturgia con Naveju:** Herramientas digitales de organización de contenido y cronogramas[cite: 1].
+- **Comunidad ITVH:** Ecosistema digital modular e independiente para la comunidad estudiantil.
+- **Liturgia con Naveju:** Herramientas digitales de organización de contenido y cronogramas.
