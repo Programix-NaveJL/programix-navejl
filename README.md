@@ -10,12 +10,12 @@ Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahe
 ### 🌐 Conéctate conmigo
 
 | Plataforma | Enlace Directo |
-| :--- | :--- |
+| :---: | :--- |
 | <img src="https://raw.githubusercontent.com/rahultk381/rahultk381/master/assets/mail.gif" width="20px"> **Correo** | alfredo.naveju.lop@gmail.com |
-| <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"> | [LinkedIn Profesional](https://www.linkedin.com/in/josé-alfredo-navejú-lópez-41b260404) |
-| <img src="https://img.shields.io/badge/Portafolio-121013?style=flat&logo=githubpages&logoColor=white" height="22"> | [Mi Sitio Web](https://programix-navejl.github.io/programix-navejl/) |
-| <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="22"> | [Facebook](https://www.facebook.com/share/1aVMUY9nGb/) |
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="22"> | [Instagram](https://www.instagram.com/janl0306?igsh=MTc2dDl6cW0zeHcyYQ==) |
+| <p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="22"></p> | [LinkedIn Profesional](https://www.linkedin.com/in/josé-alfredo-navejú-lópez-41b260404) |
+| <p align="center"><img src="https://img.shields.io/badge/Portafolio-121013?style=flat&logo=githubpages&logoColor=white" height="22"></p> | [Mi Sitio Web](https://programix-navejl.github.io/programix-navejl/) |
+| <p align="center"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="22"></p> | [Facebook](https://www.facebook.com/share/1aVMUY9nGb/) |
+| <p align="center"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="22"></p> | [Instagram](https://www.instagram.com/janl0306?igsh=MTc2dDl6cW0zeHcyYQ==) |
 
 ---
 
