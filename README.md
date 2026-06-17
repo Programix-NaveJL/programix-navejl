@@ -2,7 +2,7 @@
   <img src="https://programix-navejl.github.io/programix-navejl/logo_programix_navejl.png" alt="Logo Programix NavejL" width="180px">
 </p>
 
-# ¡Hola! Soy José Alfredo Navejú 👋
+# ¡Hola! Soy José Navejú 👋
 Estudiante de Ingeniería en Sistemas Computacionales en el TecNM Campus Villahermosa. Me apasiona el desarrollo de soluciones lógicas, aplicaciones móviles multiplataforma y la estructuración eficiente de bases de datos.
 
 ---
